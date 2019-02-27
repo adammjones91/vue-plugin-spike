@@ -1,0 +1,3 @@
+[submodule "vue-plugin-spike"]
+	path = vue-plugin-spike
+	url = https://github.com/amjuk/vue-plugin-spike
