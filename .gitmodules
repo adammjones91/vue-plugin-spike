@@ -1,3 +1,6 @@
 [submodule "vue-plugin-spike"]
 	path = vue-plugin-spike
 	url = https://github.com/amjuk/vue-plugin-spike
+[submodule "cd"]
+	path = cd
+	url = https://github.com/amjuk/vue-plugin-spike
